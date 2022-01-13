@@ -2,7 +2,7 @@
 
 ## Pre-requisites
 - Access to an Azure subcription, with contributor rights to at least one resource group.
-- have this repo available on the machine where you log into Azure from. Integrate with GIT, or simply use the green `Code` button at the top right of the repo root page to download a zip file.
+- have this repo available on the machine where you log into Azure from. Integrate from taht machine with Git if you are a git user, or simply use the green `Code` button at the top right of the repo root page to download a zip file.
 
 ## Review the sample data in this repo
 - [./sampledata/Ozgenel2019](./sampledata/Ozgenel2019) is from *2018 – Özgenel, Ç.F., Gönenç Sorguç, A. “Performance Comparison of Pretrained Convolutional Neural Networks on Crack Detection in Buildings”, ISARC 2018, Berlin.* The full dataset can be downloaded to local machine with the script [./data/fetch_Ozgenel2018_data_to_local.sh](./data/fetch_Ozgenel2018_data_to_local.sh).
