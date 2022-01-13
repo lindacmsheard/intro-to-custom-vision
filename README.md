@@ -8,7 +8,7 @@
 
 - [./sampledata/RDD2020](./sampledata/RDD2020) contains a subset of road images from the Czech Republic, from *Arya D, Maeda H, Ghosh SK, Toshniwal D, Sekimoto Y. RDD2020: An annotated image dataset for automatic road damage detection using deep learning. Data Brief. 2021 May 12;36:107133. doi: 10.1016/j.dib.2021.107133. PMID: 34095382; PMCID: PMC8166755.*
 
-> Note that any subdirectory in the [./data] folder will be gitignored, so this location is suitable for storing larger datasets locally
+> Note that any subdirectory in the [./data](./data) folder will be gitignored, so this location is suitable for storing larger datasets locally
 
 
 ## [optional] Provision a Cognitive Services Resource in Azure 
