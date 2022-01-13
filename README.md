@@ -4,7 +4,7 @@
 - Access to an Azure subcription, with contributor rights to at least one resource group.
 
 ## Review the sample data in this repo
-- [./sampledata/Ozgenel2019](./sampledata/Ozgenel2019) is from *2018 – Özgenel, Ç.F., Gönenç Sorguç, A. “Performance Comparison of Pretrained Convolutional Neural Networks on Crack Detection in Buildings”, ISARC 2018, Berlin.* The full dataset can be downloaded to local machine with the script [./data/fetch_Ozgenel2018_data_to_local.sh].
+- [./sampledata/Ozgenel2019](./sampledata/Ozgenel2019) is from *2018 – Özgenel, Ç.F., Gönenç Sorguç, A. “Performance Comparison of Pretrained Convolutional Neural Networks on Crack Detection in Buildings”, ISARC 2018, Berlin.* The full dataset can be downloaded to local machine with the script [./data/fetch_Ozgenel2018_data_to_local.sh](./data/fetch_Ozgenel2018_data_to_local.sh).
 
 - [./sampledata/RDD2020](./sampledata/RDD2020) contains a subset of road images from the Czech Republic, from *Arya D, Maeda H, Ghosh SK, Toshniwal D, Sekimoto Y. RDD2020: An annotated image dataset for automatic road damage detection using deep learning. Data Brief. 2021 May 12;36:107133. doi: 10.1016/j.dib.2021.107133. PMID: 34095382; PMCID: PMC8166755.*
 
