@@ -21,17 +21,17 @@ Azure Cognitive Services are cloud-based services that encapsulate artificial in
 
 1. Open the Azure portal at https://portal.azure.com, and sign in using the Microsoft account associated with your Azure subscription.
 2. Select the ＋Create a resource button, search for cognitive services, and create a Cognitive Services resource with the following settings:
-  - Subscription: Your Azure subscription
-  - Resource group: Choose or create a resource group (if you are using a restricted subscription, you may not have permission to create a new resource group - use the one provided)
-  - Region: Choose any available region
-  - Name: Enter a unique name
-  - Pricing tier: Standard S0
+   - Subscription: Your Azure subscription
+   - Resource group: Choose or create a resource group (if you are using a restricted subscription, you may not have permission to create a new resource group - use the one provided)
+   - Region: Choose any available region
+   - Name: Enter a unique name
+   - Pricing tier: Standard S0
 3. Select the required checkboxes and create the resource.
 4. Wait for deployment to complete, and then view the deployment details.
 5. Go to the resource and view its Keys and Endpoint page. This page contains the information that you will need to connect to your resource and use it from applications you develop. Specifically:
-  - An HTTP endpoint to which client applications can send requests.
-  - Two keys that can be used for authentication (client applications can use either key to authenticate).
-  - The location where the resource is hosted. This is required for requests to some (but not all) APIs.
+   - An HTTP endpoint to which client applications can send requests.
+   - Two keys that can be used for authentication (client applications can use either key to authenticate).
+   - The location where the resource is hosted. This is required for requests to some (but not all) APIs.
 
 ### See also
 - [Provision and manage Azure Cognitive Services](https://docs.microsoft.com/en-us/learn/paths/provision-manage-azure-cognitive-services/)
