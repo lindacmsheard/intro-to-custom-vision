@@ -42,7 +42,7 @@ Azure Cognitive Services are cloud-based services that encapsulate artificial in
 
 ## Log in to the Computer Vision studio
 
-👉 [https://www.computervision.ai](https://computervision.ai)
+👉 [https://www.customvision.ai](https://customvision.ai)
 
 
 ## Create a Classification Model
