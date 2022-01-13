@@ -91,5 +91,6 @@ Follow the instructions to do so via the Custom Vision studio interface here:
 
 
 
-
+# Further Reading
+- [./resources.md](./resources.md)
 
