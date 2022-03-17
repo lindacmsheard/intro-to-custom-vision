@@ -2,9 +2,10 @@
 
 ## Pre-requisites
 - Access to an Azure subcription, with contributor rights to at least one resource group.
+- have this repo available on the machine where you log into Azure from. Integrate from taht machine with Git if you are a git user, or simply use the green `Code` button at the top right of the repo root page to download a zip file.
 
 ## Review the sample data in this repo
-- [./sampledata/Ozgenel2019](./sampledata/Ozgenel2019) is from *2018 – Özgenel, Ç.F., Gönenç Sorguç, A. “Performance Comparison of Pretrained Convolutional Neural Networks on Crack Detection in Buildings”, ISARC 2018, Berlin.* The full dataset can be downloaded to local machine with the script [./data/fetch_Ozgenel2018_data_to_local.sh].
+- [./sampledata/Ozgenel2019](./sampledata/Ozgenel2019) is from *2018 – Özgenel, Ç.F., Gönenç Sorguç, A. “Performance Comparison of Pretrained Convolutional Neural Networks on Crack Detection in Buildings”, ISARC 2018, Berlin.* The full dataset can be downloaded to local machine with the script [./data/fetch_Ozgenel2018_data_to_local.sh](./data/fetch_Ozgenel2018_data_to_local.sh).
 
 - [./sampledata/RDD2020](./sampledata/RDD2020) contains a subset of road images from the Czech Republic, from *Arya D, Maeda H, Ghosh SK, Toshniwal D, Sekimoto Y. RDD2020: An annotated image dataset for automatic road damage detection using deep learning. Data Brief. 2021 May 12;36:107133. doi: 10.1016/j.dib.2021.107133. PMID: 34095382; PMCID: PMC8166755.*
 
@@ -42,7 +43,7 @@ Azure Cognitive Services are cloud-based services that encapsulate artificial in
 
 ## Log in to the Computer Vision studio
 
-👉 [https://www.computervision.ai](https://computervision.ai)
+👉 [https://www.customvision.ai](https://customvision.ai)
 
 
 ## Create a Classification Model
@@ -91,5 +92,5 @@ Follow the instructions to do so via the Custom Vision studio interface here:
 
 
 
-
-
+# Further Reading
+- [./resources.md](./resources.md)
